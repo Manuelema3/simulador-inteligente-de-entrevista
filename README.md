@@ -11,7 +11,7 @@ Este repositório contém a descrição detalhada da vaga de **Desenvolvedor Pyt
 
 ### Senioridade
 - **Júnior**: perfil em início de carreira, com necessidade de acompanhamento e mentoria.  
-- Justificativa: busca-se alguém com base sólida em Python, mas que ainda esteja em fase de desenvolvimento profissional, valorizando potencial de crescimento.  
+- **Justificativa**: busca-se alguém com base sólida em Python, mas que ainda esteja em fase de desenvolvimento profissional, valorizando potencial de crescimento.  
 
 ### Stack Técnico Essencial
 - Linguagem: Python  
@@ -22,7 +22,7 @@ Este repositório contém a descrição detalhada da vaga de **Desenvolvedor Pyt
 ### Soft Skills Valorizados
 - Comunicação: clareza ao compartilhar ideias e status de tarefas.  
 - Transparência: postura aberta sobre dificuldades e progresso.  
-- **Espírito ensinável**: disposição para aprender com feedbacks e evoluir rapidamente.  
+- Espírito ensinável: disposição para aprender com feedbacks e evoluir rapidamente.  
 
 ## Roteiro de Entrevista
 
