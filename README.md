@@ -24,11 +24,10 @@ Este repositório contém a descrição detalhada da vaga de **Desenvolvedor Pyt
 - **Transparência**: postura aberta sobre dificuldades e progresso.  
 - **Espírito ensinável**: disposição para aprender com feedbacks e evoluir rapidamente.  
 
----
-
 ## Roteiro de Entrevista
 
 ### Perguntas Técnicas (Stack)
+```
 1. **Pergunta:** Você já trabalhou com algum framework Python como Flask, FastAPI ou Django?  
    **Resposta eficaz:** "Sim, já desenvolvi pequenos projetos com Flask e FastAPI, criando APIs REST. Tenho noções de Django, principalmente no uso de ORM e administração."  
 
@@ -36,9 +35,9 @@ Este repositório contém a descrição detalhada da vaga de **Desenvolvedor Pyt
    **Resposta eficaz:** "Criaria rotas para `POST` e `GET`, usaria SQLAlchemy para persistência em PostgreSQL e aplicaria boas práticas como separação em módulos e uso de Blueprints."  
 
 3. **Pergunta:** Qual a sua experiência com bancos de dados relacionais, especialmente PostgreSQL?  
-   **Resposta eficaz:** "Tenho experiência em modelagem de tabelas, criação de chaves primárias/estrangeiras e consultas SQL básicas. Também já utilizei migrations com Alembic."  
+   **Resposta eficaz:** "Tenho experiência em modelagem de tabelas, criação de chaves primárias/estrangeiras e consultas SQL básicas. Também já utilizei migrations com Alembic."
+```
 
----
 
 ### Perguntas sobre Senioridade
 4. **Pergunta:** Como você lida quando não sabe resolver um problema técnico?  
