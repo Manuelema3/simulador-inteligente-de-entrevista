@@ -28,14 +28,14 @@ Este repositório contém a descrição detalhada da vaga de **Desenvolvedor Pyt
 
 ### Perguntas Técnicas (Stack)
 ```
-1. **Pergunta:** Você já trabalhou com algum framework Python como Flask, FastAPI ou Django?  
-   **Resposta eficaz:** "Sim, já desenvolvi pequenos projetos com Flask e FastAPI, criando APIs REST. Tenho noções de Django, principalmente no uso de ORM e administração."  
+1. Pergunta: Você já trabalhou com algum framework Python como Flask, FastAPI ou Django?  
+   Resposta eficaz: "Sim, já desenvolvi pequenos projetos com Flask e FastAPI, criando APIs REST. Tenho noções de Django, principalmente no uso de ORM e administração."  
 
-2. **Pergunta:** Como você estruturaria uma API simples em Flask para cadastro de usuários?  
-   **Resposta eficaz:** "Criaria rotas para `POST` e `GET`, usaria SQLAlchemy para persistência em PostgreSQL e aplicaria boas práticas como separação em módulos e uso de Blueprints."  
+2. Pergunta: Como você estruturaria uma API simples em Flask para cadastro de usuários?  
+   Resposta eficaz: "Criaria rotas para `POST` e `GET`, usaria SQLAlchemy para persistência em PostgreSQL e aplicaria boas práticas como separação em módulos e uso de Blueprints."  
 
-3. **Pergunta:** Qual a sua experiência com bancos de dados relacionais, especialmente PostgreSQL?  
-   **Resposta eficaz:** "Tenho experiência em modelagem de tabelas, criação de chaves primárias/estrangeiras e consultas SQL básicas. Também já utilizei migrations com Alembic."
+3. Pergunta: Qual a sua experiência com bancos de dados relacionais, especialmente PostgreSQL?  
+   Resposta eficaz: "Tenho experiência em modelagem de tabelas, criação de chaves primárias/estrangeiras e consultas SQL básicas. Também já utilizei migrations com Alembic."
 ```
 
 
