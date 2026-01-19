@@ -1,5 +1,5 @@
 # simulador-inteligente-de-entrevista
-Este repositório contém a descrição detalhada da vaga de **Desenvolvedor Python Júnior**, incluindo requisitos técnicos e comportamentais, além de um roteiro de entrevista com perguntas e respostas simuladas para apoiar a preparação de desenvolvedores iniciantes durante o processo seletivo.
+Este repositório contém a descrição detalhada da vaga de **Desenvolvedor Python Júnior**, incluindo requisitos técnicos e comportamentais, além de um roteiro de entrevista com perguntas e possíveis respostas simuladas para apoiar a preparação de desenvolvedores iniciantes durante o processo seletivo.
 
 ---
 
