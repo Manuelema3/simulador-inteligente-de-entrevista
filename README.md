@@ -41,33 +41,35 @@ Este repositório contém a descrição detalhada da vaga de **Desenvolvedor Pyt
 
 ### Perguntas sobre Senioridade
 ```
-4. **Pergunta:** Como você lida quando não sabe resolver um problema técnico?  
-   **Resposta eficaz:** "Primeiro tento pesquisar em documentação oficial e fóruns. Se não resolver, peço ajuda ao time explicando claramente o que já tentei."  
+4. Pergunta: Como você lida quando não sabe resolver um problema técnico?  
+   Resposta eficaz: "Primeiro tento pesquisar em documentação oficial e fóruns. Se não resolver, peço ajuda ao time explicando claramente o que já tentei."  
 
-5. **Pergunta:** Qual foi o maior aprendizado que você teve em projetos anteriores?  
-   **Resposta eficaz:** "Aprendi que escrever código limpo e documentado facilita muito a colaboração e manutenção, mesmo em projetos pequenos."
+5. Pergunta: Qual foi o maior aprendizado que você teve em projetos anteriores?  
+   Resposta eficaz: "Aprendi que escrever código limpo e documentado facilita muito a colaboração e manutenção, mesmo em projetos pequenos."
 ``` 
 
 ### Perguntas sobre Soft Skills
-6. **Pergunta:** Como você garante uma boa comunicação com o time?  
-   **Resposta eficaz:** "Procuro dar feedback constante sobre meu progresso, uso ferramentas de gestão como Trello/Jira e participo ativamente das dailies."  
+```
+6. Pergunta: Como você garante uma boa comunicação com o time?  
+   Resposta eficaz: "Procuro dar feedback constante sobre meu progresso, uso ferramentas de gestão como Trello/Jira e participo ativamente das dailies."  
 
 7. **Pergunta:** O que significa para você ter um espírito ensinável?  
    **Resposta eficaz:** "Significa estar aberto a feedbacks, não levar críticas para o lado pessoal e aplicar rapidamente o que aprendi."  
 
 8. **Pergunta:** Pode dar um exemplo de quando a transparência ajudou em um projeto?  
    **Resposta eficaz:** "Em um projeto, percebi que não conseguiria entregar no prazo. Avisei antecipadamente ao líder, o que permitiu redistribuir tarefas e evitar atrasos maiores."  
-
----
+```
 
 ### Perguntas de Avaliação Geral
-9. **Pergunta:** Qual é o seu objetivo de carreira nos próximos 2 anos?  
-   **Resposta eficaz:** "Consolidar minha base em Python e frameworks web, ganhar experiência prática e evoluir para nível pleno."  
 
-10. **Pergunta:** O que mais te motiva em trabalhar como Dev Python Júnior?  
+```
+9. Pergunta: Qual é o seu objetivo de carreira nos próximos 2 anos?  
+   Resposta eficaz: "Consolidar minha base em Python e frameworks web, ganhar experiência prática e evoluir para nível pleno."  
+
+10. Pergunta: O que mais te motiva em trabalhar como Dev Python Júnior?  
     **Resposta eficaz:** "A oportunidade de aprender com profissionais mais experientes e aplicar meus conhecimentos em projetos reais."  
-
----
+````
 
 ## Conclusão
-Este documento serve como guia para recrutadores e gestores que desejam conduzir entrevistas estruturadas para a vaga de **Dev Python Júnior**, garantindo clareza nos requisitos e consistência na avaliação dos candidatos.
+Embora este documento serve como guia para recrutadores e gestores que desejam conduzir entrevistas estruturadas para a vaga de **Dev Python Júnior**, garantindo clareza nos requisitos e consistência na avaliação dos candidatos, ele tamém é útil para desenvolvedores em início de carreira em Python que desejam se preparar para entrevistas como **Dev Python Júnior**, garantindo que tenham uma simulação preparativa.
+
